@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Nabla&family=Yarndings+20&display=swap');
 
 body{
-    background-image: url();
+    background-image: url("/assets/a4229a483cf76e0b5458450c2e591ff3.png");
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
 }
 
 .centered{
