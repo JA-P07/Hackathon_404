@@ -113,13 +113,13 @@ div{
 }
 
 nav{
-    background-image: url(/assets/warn_bg2.jpg);
+    background-image: url(warn_bg2.jpg);
     size: 100%;
     padding: 30px 20px;
 }
 
 footer{
-    background-image: url(/assets/warn_bg2.jpg);
+    background-image: url(warn_bg2.jpg);
     size: 100%;
     padding: 10px 20px;
     bottom: 0;
