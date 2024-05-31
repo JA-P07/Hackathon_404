@@ -149,3 +149,7 @@ footer{
     0% {background-color: orange;}
     100% {background-color: red;}
 }
+
+a{
+    text-decoration: none;
+}
