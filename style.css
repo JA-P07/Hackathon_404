@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Nabla&family=Yarndings+20&display=swap');
 
 body{
-    background-color: #9bb8d6;
+    background-color: #bdd9f6;
     margin: 0;
     padding: 0;
 }
@@ -16,6 +16,9 @@ body{
     margin-top: -350px;
 }
 .mini{
+    position: absolute;
+    left: 50%;
+    top: 60%;
     font-size: 3vw;
     height: 30vh;
     font-family: 'Nabla', sans-serif;
@@ -86,7 +89,7 @@ div{
 #go-home_base {
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 55%;
     transform: translate(-50%, -50%);
     padding: 10px 20px;
     background-color: #007BFF;
@@ -94,6 +97,8 @@ div{
     text-decoration: none;
     border-radius: 5px;
     transition: left 0.3s, top 0.3s;
+
+    
 }
 
 nav{
